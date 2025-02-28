@@ -42,7 +42,7 @@ export default function Services() {
         },
 
         {
-          src: "/img/BIOFOTOTERAPIA.png",
+          src: "/img/BOI-FOTOTERAPIA.png",
           subtitle: "BIOFOTOTERAPIA",
           content:
             "Este tratamiento utiliza tecnología de luz LED para regenerar la piel, combatir manchas, mejorar cicatrices de acné y estimular la producción de colágeno. Es indoloro, no invasivo y apto para todo tipo de pieles.",
@@ -282,12 +282,7 @@ export default function Services() {
           content:
             "Innovador procedimiento que utiliza la grasa propia de la paciente para mejorar el volumen y contorno de áreas específicas. Ofrece resultados naturales y duraderos utilizando tejido totalmente biocompatible.",
         },
-        {
-          src: "/img/MONTPLASTÍAS.png",
-          subtitle: "MONTPLASTÍAS",
-          content:
-            "Cirugía estética especializada que remodela y mejora la apariencia del monte de Venus, proporcionando un contorno más armónico y estético del área íntima. Procedimiento personalizado según las necesidades de cada paciente.",
-        },
+        
         {
           src: "/img/OBTENCION DE FRACCION VASCULAR ESTROMAL.png",
           subtitle: "OBTENCION DE FRACCION VASCULAR ESTROMAL",
